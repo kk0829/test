@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/node-labx/test#readme",
   "dependencies": {
-    "date-fns": "^2.21.0",
+    "date-fns": "2.21.0",
     "koa": "2.13.0"
   }
 }
